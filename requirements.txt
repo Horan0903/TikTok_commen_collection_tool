@@ -1,0 +1,9 @@
+streamlit>=1.24.0
+pandas>=1.5.3
+requests>=2.31.0
+aiohttp>=3.8.5
+Brotli>=1.0.9
+openpyxl>=3.0.9
+thulac>=0.2.1
+wordcloud>=1.8.1
+plotly>=5.13.0 
