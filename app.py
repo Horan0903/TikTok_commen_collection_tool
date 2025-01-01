@@ -34,7 +34,7 @@ class XBogus:
 
     def _get_x_bogus(self, params: str, user_agent: str) -> str:
         """
-        生成 X-Bogus 签名
+        生成 X-Bogus签名
         :param params: 请求参数字符串
         :param user_agent: 用户代理字符串
         :return: X-Bogus 签名
