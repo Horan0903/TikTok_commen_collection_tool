@@ -23,18 +23,23 @@
 ## 安装说明
 
 1. 克隆项目并进入项目目录： 
-bash
-git clone <repository_url>
+```bash
+git clone https://github.com/Horan0903/TikTok_commen_collection_tool
 cd 抖音评论爬取工具
+```
 2. 创建并激活虚拟环境：
-bash
+```bash
 python -m venv .venv
 source .venv/bin/activate # Linux/Mac
+```
 或
+```bash
 .venv\Scripts\activate # Windows
+```
 3. 安装依赖：
-bash
+```bash
 pip install -r requirements.txt
+```
 
 
 ## 使用说明
